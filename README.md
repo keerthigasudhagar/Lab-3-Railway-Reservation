@@ -1,4 +1,6 @@
 # Lab-3-Railway-Reservation
+## Name: Keerthika S
+## Register no: 212223040093
 
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
@@ -18,7 +20,20 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
+## USE CASE :
+![image](https://github.com/user-attachments/assets/31bb76c8-3608-4f5c-a9bc-3dc57f01aa8d)
 
+## CLASS DIAGRAM :
+![image](https://github.com/user-attachments/assets/a41ec2dc-c483-436a-94b6-38d959af9304)
+
+##  SEQUENCE DIAGRAM:
+![image](https://github.com/user-attachments/assets/f3fb6bd9-0ad1-4c33-9685-121a4f72ace0)
+
+## COLLABORATION DIAGRAM:
+![image](https://github.com/user-attachments/assets/6c89b755-35ec-48d9-b9a0-510c66189b19)
+
+## ACTIVITY DIAGRAM 
+![image](https://github.com/user-attachments/assets/b31cc62a-df63-44f9-9030-e7328a8c89e5)
 
 
 ### RESULT:
